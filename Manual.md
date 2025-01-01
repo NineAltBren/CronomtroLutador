@@ -1,4 +1,4 @@
-Cronometro Manual : InterrogateStudios 2024@
+Cronometro Manual : interrogatestudios@gmail.com 2024@
 
  1 - Arquivo
    * Carregar Painel : "Carrega dados de um painel anterior" ( SHIFT + C )
